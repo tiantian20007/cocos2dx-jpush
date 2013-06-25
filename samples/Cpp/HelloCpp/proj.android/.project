@@ -135,7 +135,7 @@
 		<link>
 			<name>srcx</name>
 			<type>2</type>
-			<location>/Users/leshu-2/Documents/repository/Jpush_cocos2d-x/cocos2dx/platform/android/java/src</location>
+			<locationURI>$%7BPARENT-4-PROJECT_LOC%7D/cocos2dx/platform/android/java/src</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
